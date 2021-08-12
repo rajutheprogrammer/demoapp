@@ -1,0 +1,19 @@
+{
+  "name": "happyserver",
+  "version": "1.0.0",
+  "description": "a server for learning coding",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "happyserver"
+  },
+  "keywords": [
+    "server",
+    "fileserver"
+  ],
+  "author": "Rajesh Chandra",
+  "license": "ISC"
+}
